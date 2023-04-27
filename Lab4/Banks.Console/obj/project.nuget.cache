@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hb3dc519Z4DaPO1s3W50ukyhuWf+0OVxgm/tQat0tF7EMNLuyFpU3W7U/6xrZSyjRMGmIsU8yKcSwG+Gcju7wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Мария\\Desktop\\-\\Itmo\\ThirdSem\\OOP\\Mariyorda\\Lab4\\Banks.Console\\Banks.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

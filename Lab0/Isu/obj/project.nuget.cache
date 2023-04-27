@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MKetovFLl+P6HjV0IRPP+piX7K0ZW0o/Xo+761yKPIMMhvzTDeEzHFb6stzakwEUigZhkpHn7RaKYKA/LuQaiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Мария\\Desktop\\-\\Itmo\\ThirdSem\\OOP\\Mariyorda\\Lab0\\Isu\\Isu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

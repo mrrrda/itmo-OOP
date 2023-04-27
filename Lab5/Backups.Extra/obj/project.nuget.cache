@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zyElRxeLgstgV2Wc9bu6206JNtN6KTArZM4bOxsKwrMhxZJyQjSoQXL94mhRBAXLpwrL9Lumw4AK5EGUD9hEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Мария\\Desktop\\-\\Itmo\\ThirdSem\\OOP\\Mariyorda\\Lab5\\Backups.Extra\\Backups.Extra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мария\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
